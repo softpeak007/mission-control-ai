@@ -7,7 +7,7 @@ Welcome to the official hackathon and investor-preview landing copy for **Missio
 ## 🚀 HERO SECTION
 
 ### **Headline:**
-> **Ideation is Instant. Validation Takes Weeks. Build in 15 Seconds.**
+> **Ideation is Instant. Validation Takes Weeks. Build in Mission Control AI transforms a single business goal into a validated startup blueprint using specialized AI agents, consensus reasoning, and investor-grade analysis.
 
 ### **Sub-headline:**
 > Stop wasting thousands on legal consultants and weeks on competitive scoping. Deploy a computational assembly line of autonomous AI agents working in sequential consensus to audit, architect, and package your raw business goals into board-ready deliverables.
