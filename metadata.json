@@ -1,0 +1,8 @@
+{
+  "name": "Mission Control AI: Autonomous Multi-Agent Operating System for Founders",
+  "description": "One Goal. Multiple AI Agents. Complete Execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
