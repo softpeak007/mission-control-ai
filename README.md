@@ -116,7 +116,12 @@ npm run start
 
 ---
 
-## 📄 Licensing & Disclaimers
-Distributed under the MIT License. See `LICENSE` for details.
+## ## 📄 Licensing & Disclaimers
 
-*Disclaimer: Mission Control AI does not dispense official legal or registered investment advice. Compiled plans represent simulated algorithmic strategies that must be finalized in conjunction with local certified legal practitioners.*
+Copyright © 2026 Softpeak. All rights reserved.
+
+Mission Control AI and its source code are provided for demonstration, evaluation, and hackathon submission purposes only.
+
+No part of this software may be copied, modified, redistributed, or used for commercial purposes without prior written permission from the copyright holder.
+
+*Disclaimer: Mission Control AI does not dispense official legal, financial, or investment advice. Generated outputs are AI-assisted strategic recommendations and should be independently verified before implementation.*
