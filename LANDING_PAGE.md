@@ -1,8 +1,7 @@
 # 🌌 MISSION CONTROL AI
 ### *The Autonomous Computational Venture Engine & Multi-Agent Startup Synthesizer*
 
-Welcome to the official hackathon and investor-preview landing copy for **Mission Control AI**—a high-fidelity, high-tempo workspace designed to turn loose ideas into vetted startup roadmaps, monetization models, and investment briefs in less than 15 seconds.
-
+Welcome to the official hackathon and investor-preview landing copy for **Mission Control AI**—a high-fidelity, high-tempo workspace designed to turn loose ideas into vetted startup roadmaps, monetization models, and investment briefs in Mission Control AI transforms a single business goal into a validated startup blueprint using specialized AI agents, consensus reasoning, and investor-grade analysis.
 ---
 
 ## 🚀 HERO SECTION
